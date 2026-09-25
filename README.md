@@ -1,6 +1,6 @@
 # Architecture Cloud-Native & Automatisation Décisionnelle (NPS / CSAT) 🚀
 
-> Projet de Fin d'Études (PFE) – Ingénierie d'État en Informatique & Décisionnel (MIAGE)
+> Projet de Fin d'Études (PFE) – Ingénierie d'État en Informatique & Réseaux (MIAGE)
 
 ## Présentation du Projet
 Ce projet formalise la conception et le déploiement d'une architecture Cloud-Native visant à automatiser l'acquisition, le contrôle d'intégrité, la validation et l'intégration analytique des retours de satisfaction client.
